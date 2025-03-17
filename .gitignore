@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+figures/Figure*[a-z]_*.png
+figures/Figure*[a-z]-[a-z]_*.png
